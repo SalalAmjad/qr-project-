@@ -1,0 +1,30 @@
+p{
+       font-weight: lighter;
+       width:70%;
+       text-align:center;
+       margin:auto;
+       padding:10px;
+   } 
+   
+   img{
+       width:90% ;
+       padding:14px;
+       margin-left:auto;
+       margin-right:auto;
+       border-top-left-radius:30px;
+       border-top-right-radius:30px;
+       border-bottom-left-radius:30px;
+       border-bottom-right-radius:30px;
+   }
+   
+   h2{
+       width:80%;
+       text-align:center;
+       margin:auto;
+       padding:15px;
+   }
+   .container{
+       max-width:250;
+       background-color:lightgrey;
+       border-radius:30px;
+   }
