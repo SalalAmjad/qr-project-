@@ -24,7 +24,7 @@ p{
        padding:15px;
    }
    .container{
-       max-width:250;
+       max-width:80%;
        background-color:lightgrey;
        border-radius:30px;
    }
